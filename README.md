@@ -21,7 +21,6 @@ Some of the things I would like to do include, but are not limited to:
 # Where do I get started?
 Make sure that you have signed up on https://community.codecademy.com. This is how Codecademy tracks Chapters. <br/>
 We will use this repo to host all of our projects. <br/>
-Please do not use this repo as your personal repo as you will be provided contributor access to this project. <br/>
 If you have any questions, feel free to shoot me an email centralokcoding@zerocircuits.tech <br/>
 
 <!---
