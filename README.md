@@ -15,7 +15,7 @@ Some of the things I would like to do include, but are not limited to:
 - Make sure that you have signed up on https://community.codecademy.com/central-oklahoma/. This is how Codecademy tracks Chapters. <br/>
 - We will use this repo to host all of our projects. <br/>
  
-### If you have any questions, feel free to shoot me an email centralokcoding@zerocircuits.tech <br/>
+### If you have any questions, feel free to shoot us an email centralokcoding@zerocircuits.tech <br/>
 
 <!---
 CentralOKCoders/CentralOKCoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
