@@ -1,6 +1,6 @@
 # Welcome to Central Oklahoma Coders!
 
-I am glad you found our space, and that you have decided to join us! <br/>
+We are glad you found our repo, and that you have decided to join us! <br/>
 We are a Codecademy Community Chapter based out of Central Oklahoma, and we welcome anyone that is interested to join us. <br/>
 ## What are we about?
 Well to keep it short and sweet I began this chapter to meet like minded individuals with a desire to learn. <br/>
