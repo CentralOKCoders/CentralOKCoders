@@ -19,7 +19,7 @@ Some of the things I would like to do include, but are not limited to:
 - BiWeekly or even more Virtual Meetups
 - Working sessions that individuals can schedule amongst themselves.
 # Where do I get started?
-- Make sure that you have signed up on https://community.codecademy.com. This is how Codecademy tracks Chapters. <br/>
+- Make sure that you have signed up on https://community.codecademy.com/central-oklahoma/. This is how Codecademy tracks Chapters. <br/>
 - We will use this repo to host all of our projects. <br/>
  
 ### If you have any questions, feel free to shoot me an email centralokcoding@zerocircuits.tech <br/>
